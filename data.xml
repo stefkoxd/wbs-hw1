@@ -1,0 +1,25 @@
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <rdf:Description rdf:about="https://twitter.com/Stefk0xd">
+        <vcard:N>
+            <rdf:Description rdf:about="https://www.finki.ukim.mk/">
+                <vcard:ORG>UKIM</vcard:ORG>
+                <vcard:ADR>
+                    <rdf:Description rdf:about="https://skopje.gov.mk/">
+                        <vcard:GEO>
+                            <rdf:Description rdf:about="https://en.wikipedia.org/wiki/North_Macedonia">
+                                <vcard:GEO>Europe</vcard:GEO>
+                            </rdf:Description>
+                        </vcard:GEO>
+                    </rdf:Description>
+                </vcard:ADR>
+            </rdf:Description>
+        </vcard:N>
+        <vcard:TITLE>Software Engineer</vcard:TITLE>
+        <vcard:ADR>Blagoja Stefkovski 25-1/15</vcard:ADR>
+        <vcard:BDAY>25-01-2000</vcard:BDAY>
+        <vcard:NICKNAME>Stef</vcard:NICKNAME>
+        <vcard:FN>Stefan Mitrevski</vcard:FN>
+    </rdf:Description>
+</rdf:RDF>
